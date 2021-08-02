@@ -9,7 +9,7 @@ def sub(x,y):
 
 #Mul implementation
 def mul(x,y):
-	pass
+	return x*y #Multiplication from Local Repos
 
 #Div implementation
 def div(x,y):
