@@ -5,7 +5,7 @@ def add(x,y):
 
 #Sub implementation
 def sub(x,y):
-	pass
+	return x-y  #From Remote Repository
 
 #Mul implementation
 def mul(x,y):
