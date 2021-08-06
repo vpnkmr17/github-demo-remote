@@ -14,6 +14,10 @@ def mul(x,y):
 #Div implementation
 def div(x,y):
 	pass
+
+
+#Adding date 6-08-2021 12:25
+That is today
 	
 
 
